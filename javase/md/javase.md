@@ -1,6 +1,6 @@
-[TOC]
 
-## 面向对象基础知识
+
+## [面向对象基础知识]("Java中的面向对象(objectOrientedInJava)/index.md")
 
 
 
